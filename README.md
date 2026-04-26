@@ -8,7 +8,7 @@ Passionate about technology, always eager to learn and take on new challenges.
 ## 🛠️ Skills & Interests
 
 - **Languages:** JavaScript, Rust, Python (learning), C (beginner)
-- **Interests:** Cybersecurity, Delivery Routing, Venta Libre, and more coming soon!
+- **Interests:** Cybersecurity,low level languages, electronics and more!
 - **Coding Style:** Object-oriented, clean & well-structured code
 
 ## 💡 What Drives Me?

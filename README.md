@@ -14,15 +14,15 @@ I'm a developer with a strong interest in **cybersecurity**, **systems programmi
 ## 🛠️ Tech Stack
 
 **Languages:**
-- 🔥 Experienced: JavaScript, Rust
-- 📚 Learning: Python, C
-- 🎯 Interested in: Assembly, Go
+- 🔥 Experienced: JavaScript, HTML, CSS
+- 📚 Learning: Rust, C
+- 🎯 Interested in: Assembly, network
 
 **Tools & Technologies:**
 - Web Development: HTML, CSS, Node.js
 - Version Control: Git, GitHub
 - Databases: SQL (learning)
-- Development Environment: VS Code, CLI tools
+- Development Environment: Sublime Text, VIm, CLI tools
 
 **Areas of Interest:**
 - Cybersecurity & ethical hacking
